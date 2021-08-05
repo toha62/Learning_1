@@ -14,4 +14,3 @@ if len(dnk) > 1:
 else:
     dnk_enc = dnk + '1'
 print(dnk_enc)
-
